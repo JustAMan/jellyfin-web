@@ -6599,6 +6599,10 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
+"libass-wasm@https://github.com/JustAMan/JavascriptSubtitlesOctopus.git#fix-file-url":
+  version "4.0.0"
+  resolved "https://github.com/JustAMan/JavascriptSubtitlesOctopus.git#5de3c74b8f54e3f10b1da543e583c83ceaad1f97"
+
 "libass-wasm@https://github.com/jellyfin/JavascriptSubtitlesOctopus#4.0.0-jf":
   version "4.0.0"
   resolved "https://github.com/jellyfin/JavascriptSubtitlesOctopus#7e6b75dcab9f7dad12719983510d05242803707c"
